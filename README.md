@@ -1,4 +1,4 @@
-# Hi there, I'm GANJI MUNI MADHURI 👋
+# Hi there, I'm Muni Madhuri 👋
 
 ### 🚀 About Me
 - 🎓 **Education:** B.Tech Student in **Artificial Intelligence & Data Science**
@@ -33,26 +33,25 @@
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Smart Flood Alert System](https://github.com/YOUR_USERNAME/repo-name)** | `Python` `IoT` `Machine Learning` | AI-enabled flood prediction system with real-time risk classification. |
-| **[Patient Risk Stratification](https://github.com/YOUR_USERNAME/repo-name)** | `Python` `Scikit-Learn` `IBM Watson` | Machine learning model for segmenting heart disease patients into risk profiles. |
-| **[Face Recognition Attendance](https://github.com/YOUR_USERNAME/repo-name)** | `Python` `OpenCV` | Automated classroom attendance system using real-time computer vision. |
+| **[Heart MRI Classification](https://github.com/Munimadhuriganji/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)** | `Python` `Deep Learning` `Medical Imaging` | AI model designed to analyze heart MRI scans for clinical decision support and diagnostic assistance. |
+| **[Smart Flood Alert System](https://github.com/Munimadhuriganji/AI-ENABLED-IOT-BASED-SMART-FLOOD-ALERT-AND-PREDICTION-SYSTEM)** | `Python` `IoT` `Machine Learning` | AI-enabled IoT solution for real-time flood monitoring, prediction, and emergency alerts. |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Munimadhuriganji&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munimadhuriganji&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimadhuriganji&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganji-muni-madhuri-41896a291/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ganjimunimadhuri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munimadhuriganji@gmail.com)
