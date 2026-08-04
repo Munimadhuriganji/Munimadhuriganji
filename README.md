@@ -2,8 +2,8 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** B.Tech Student in **Artificial Intelligence & Data Science**
-- 🔭 **Currently Working On:** Machine Learning models, End-to-End Data Pipelines, and Open-Source projects
-- 📊 **Core Focus:** Predictive Analytics, Data Visualization & Computer Vision
+- 🔭 **Currently Working On:** Machine Learning models, End-to-End Data Pipelines, and SQL-based Analytics
+- 📊 **Core Focus:** Predictive Analytics, Data Visualization & Real-time Systems
 - ⚡ **Fun Fact:** When I'm not writing code, I'm usually solving LeetCode problems or exploring data analytics challenges.
 
 ---
@@ -15,26 +15,18 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### **Data Visualization & Analytics**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
-#### **Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
 
 ### 📌 Featured Projects
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[Heart MRI Classification](https://github.com/Munimadhuriganji/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)** | `Python` `Deep Learning` `Medical Imaging` | AI model designed to analyze heart MRI scans for clinical decision support and diagnostic assistance. |
 | **[Smart Flood Alert System](https://github.com/Munimadhuriganji/AI-ENABLED-IOT-BASED-SMART-FLOOD-ALERT-AND-PREDICTION-SYSTEM)** | `Python` `IoT` `Machine Learning` | AI-enabled IoT solution for real-time flood monitoring, prediction, and emergency alerts. |
+| **[Banking Fraud Detection System](https://github.com/Munimadhuriganji)** | `Python` `Scikit-Learn` `SQL` | Machine learning pipeline designed to preprocess transactional data and detect high-risk fraudulent banking transactions. |
+| **[Heart MRI Classification](https://github.com/Munimadhuriganji/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)** | `Python` `Deep Learning` `Medical Imaging` | AI model designed to analyze heart MRI scans for clinical decision support and diagnostic assistance. |
 
 ---
 
