@@ -28,20 +28,16 @@
 | **[Banking Fraud Detection System](https://github.com/Munimadhuriganji)** | `Python` `Scikit-Learn` `SQL` | Machine learning pipeline designed to preprocess transactional data and detect high-risk fraudulent banking transactions. |
 | **[Heart MRI Classification](https://github.com/Munimadhuriganji/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)** | `Python` `Deep Learning` `Medical Imaging` | AI model designed to analyze heart MRI scans for clinical decision support and diagnostic assistance. |
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munimadhuriganji&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munimadhuriganji&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Munimadhuriganji&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Munimadhuriganji&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimadhuriganji&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganji-muni-madhuri-41896a291/)
