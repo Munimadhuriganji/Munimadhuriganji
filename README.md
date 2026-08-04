@@ -30,10 +30,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Munimadhuriganji&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Munimadhuriganji&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimadhuriganji&theme=tokyonight" alt="GitHub Streak" />
