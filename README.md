@@ -1,42 +1,35 @@
-# Hi there, I'm Muni Madhuri 👋
+# Ganji Muni Madhuri | AI & Data Science Portfolio
 
-### 🚀 About Me
-- 🎓 **Education:** B.Tech Student in **Artificial Intelligence & Data Science**
-- 🔭 **Currently Working On:** Machine Learning models, End-to-End Data Pipelines, and SQL-based Analytics
-- 📊 **Core Focus:** Predictive Analytics, Data Visualization & Real-time Systems
-- ⚡ **Fun Fact:** When I'm not writing code, I'm usually solving LeetCode problems or exploring data analytics challenges.
+Personal portfolio of Ganji Muni Madhuri, a B.Tech student in Artificial Intelligence and Data Science at Saveetha Engineering College, Chennai. I build practical projects in machine learning, data analytics, and software development.
 
----
+[Visit the live portfolio](https://madhuri-ai-portfolio.lovable.app/)
 
-### 🛠️ Tech Stack & Tools
+## Featured projects
 
-#### **Languages & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+| Project | Overview |
+| --- | --- |
+| VEXORA – Explainable Fund-Flow Tracing for Fraud Detection | Explores AI-driven methods to identify suspicious transaction patterns and trace fund flows. |
+| AI-Powered Heart MRI Classification | Uses TensorFlow and Keras to classify heart MRI images into Healthy and Sick categories. |
+| Wave Go Bionic Dog | A programmed bionic dog prototype featuring movement and sensor integration. |
 
-#### **Data Visualization & Analytics**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Education and experience
 
+- **B.Tech in Artificial Intelligence and Data Science**, Saveetha Engineering College, Chennai. Expected graduation in May 2027.
+- **Website Designing and Development Intern**, Connect Infosystems, 2024. Academic internship focused on web development concepts and practical implementation.
 
-### 📌 Featured Projects
+## Achievements
 
-| Project Name | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Smart Flood Alert System](https://github.com/Munimadhuriganji/AI-ENABLED-IOT-BASED-SMART-FLOOD-ALERT-AND-PREDICTION-SYSTEM)** | `Python` `IoT` `Machine Learning` | AI-enabled IoT solution for real-time flood monitoring, prediction, and emergency alerts. |
-| **[Banking Fraud Detection System](https://github.com/Munimadhuriganji)** | `Python` `Scikit-Learn` `SQL` | Machine learning pipeline designed to preprocess transactional data and detect high-risk fraudulent banking transactions. |
-| **[Heart MRI Classification](https://github.com/Munimadhuriganji/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support)** | `Python` `Deep Learning` `Medical Imaging` | AI model designed to analyze heart MRI scans for clinical decision support and diagnostic assistance. |
+- **IBM Z Datathon 2026** — Second Prize Winner
+- **IBM Z Datathon 2025** — Second Prize Winner with Team Big Iron
+- **IBM Z Datathon 2024** — Global Third Prize Winner
+- **Department Tech Fest Coordinator** — Organized *Innovate with Intelligence*
 
-### 📊 GitHub Stats
+## About this repository
 
+This repository contains the source code for the portfolio website. The project was built in Lovable and is synced with the GitHub `main` branch.
 
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munimadhuriganji&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganji-muni-madhuri-41896a291/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ganjimunimadhuri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munimadhuriganji@gmail.com)
+- [Email](mailto:munimadhuriganji@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ganji-muni-madhuri-41896a291/)
+- [GitHub](https://github.com/Munimadhuriganji)
