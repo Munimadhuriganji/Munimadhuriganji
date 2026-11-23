@@ -32,9 +32,6 @@ I’m a B.Tech student specializing in Artificial Intelligence and Data Science 
 - **IBM Z Datathon 2024** — Global Third Prize Winner
 - **Department Tech Fest Coordinator** — Organized *Innovate with Intelligence*
 
-## About This Repository
-
-This repository contains the source code for my portfolio website, built with Lovable.
 
 ## Contact
 
